@@ -11,7 +11,7 @@ export default function Message() {
     setLoading(true);
     setSuccess("");
     try {
-      const res = await fetch("http://localhost:5000/api/messages", {
+      const res = await fetch("https://webtech-education-backend-1.onrender.com/api/messages", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(form),
