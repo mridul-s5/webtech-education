@@ -59,9 +59,9 @@ export default function Courses() {
               <p className="text-slate-600 text-sm leading-relaxed mb-4">
                 {course.desc}
               </p>
-              <button className="px-4 py-2 bg-gradient-to-r from-indigo-600 to-pink-600 text-white rounded-lg text-sm font-medium hover:opacity-90 hover:shadow transition-all duration-300">
+              {/* <button className="px-4 py-2 bg-gradient-to-r from-indigo-600 to-pink-600 text-white rounded-lg text-sm font-medium hover:opacity-90 hover:shadow transition-all duration-300">
                 Learn More
-              </button>
+              </button> */}
             </div>
           ))}
         </div>
