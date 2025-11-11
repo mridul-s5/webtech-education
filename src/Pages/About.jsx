@@ -11,35 +11,33 @@ export default function About() {
       {/* About Section */}
       <main className="max-w-6xl mx-auto px-6 py-16">
         <h2 className="text-4xl sm:text-5xl font-extrabold text-center mb-8 text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-pink-600">
-          About WebTech Academy
+          About ENFI PLATFORMS
         </h2>
 
-        <p className="text-lg text-slate-700 text-center max-w-3xl mx-auto leading-relaxed mb-12">
-          <span className="font-semibold text-indigo-700">WebTech Academy</span> ek modern online learning platform hai jahan par aapko 
-          <span className="text-pink-600 font-semibold"> Web Development, Full Stack, </span>
-          aur <span className="text-indigo-600 font-semibold">Design</span> ke latest tools aur technologies 
-          practical tareeke se sikhaye jaate hain.  
-          Hamara goal hai students ko IT industry ke liye <span className="font-semibold">job-ready</span> banana.
-        </p>
+      <p className="text-lg text-slate-700 text-center max-w-3xl mx-auto leading-relaxed mb-12">
+  <span className="font-semibold text-indigo-700">Enfi Platfroms</span> is a modern online learning platform where you can learn 
+  <span className="text-pink-600 font-semibold"> Web Development, Full Stack, </span>
+  and <span className="text-indigo-600 font-semibold">Design</span> using the latest tools and technologies through practical learning.  
+  Our goal is to make students <span className="font-semibold">job-ready</span> for the IT industry.
+</p>
+
 
         {/* Mission & Vision Section */}
         <div className="grid sm:grid-cols-2 gap-10 mt-10">
           <div className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-md hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300">
             <h3 className="text-2xl font-bold text-indigo-700 mb-3">🎯 Our Mission</h3>
             <p className="text-slate-600 leading-relaxed">
-              Hamara mission hai har learner ko empower karna — taaki wo modern technology aur 
-              real-world projects ke through apni career growth ko accelerate kar sake.  
-              Hum believe karte hain ki learning tabhi valuable hoti hai jab wo implement ho.
+             Our mission is to empower every learner — so that they can accelerate their career growth through modern technology and real-world projects.
+We believe that learning is truly valuable only when it is applied.
             </p>
           </div>
 
           <div className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-md hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300">
             <h3 className="text-2xl font-bold text-pink-700 mb-3">🚀 What Makes Us Different</h3>
             <p className="text-slate-600 leading-relaxed">
-              WebTech Academy me aapko sirf theory nahi — balki 
+              At Enfi Platfroms, you don’t just learn theory — but also gain practical, hands-on experience. 
               <span className="text-indigo-700 font-semibold"> real-time projects, mentorship, </span>  
-              aur <span className="text-pink-700 font-semibold">career guidance</span> milta hai.  
-              Hum har learner ke journey me practical exposure aur confidence build karte hain.
+              and <span className="text-pink-700 font-semibold">career guidance</span> You get practical exposure and confidence at every step of your learning journey with us.
             </p>
           </div>
         </div>

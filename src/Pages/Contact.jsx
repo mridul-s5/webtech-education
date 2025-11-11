@@ -22,7 +22,7 @@ export default function Contact() {
         <div className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-md hover:shadow-xl transform hover:-translate-y-1 transition-all duration-300 max-w-md mx-auto space-y-4">
           <div className="text-left">
             <p className="text-indigo-700 font-semibold">📧 Email</p>
-            <p className="text-slate-700">support@webtechacademy.com</p>
+            <p className="text-slate-700">support@enfiplatfroms.com</p>
           </div>
           <div className="text-left">
             <p className="text-indigo-700 font-semibold">📞 Phone</p>

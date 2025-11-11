@@ -18,7 +18,7 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto flex justify-between items-center px-6">
         {/* Logo */}
         <Link to="/" className="text-xl font-bold text-indigo-700">
-          WebTech Academy
+          ENFI PLATFORMS
         </Link>
 
         {/* Desktop Menu */}
